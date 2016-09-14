@@ -1,0 +1,24 @@
+body {
+    background-color: lightblue;
+    font-family: "Courier New", Courier, monospace;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+caption {
+    width: 100px;
+    text-align: center;
+}
+
+
+img {
+	display: block;
+    margin: auto;
+    width: 40%;
+    ms-transform: rotate(90deg); /* IE 9 */ 
+	webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */ 
+	transform: rotate(90deg); 
+}
