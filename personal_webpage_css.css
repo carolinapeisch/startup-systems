@@ -14,6 +14,19 @@ caption {
 }
 
 
+button {
+    background-color: navy; /* Cream */
+    border: none;
+    color: white;
+    padding: 12px 29px;
+    text-align: center;
+    text-decoration: none;
+    font-family: "Courier New", Courier, monospace;
+    display: block;
+    margin: auto;
+    font-size: 12px;
+}
+
 img {
 	display: block;
     margin: auto;
